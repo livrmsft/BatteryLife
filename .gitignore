@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# PyInstaller build artefacts
+build/
+dist/
+*.spec.bak
+
+# Test-generated files
+excel_test_files/
+*.log
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
